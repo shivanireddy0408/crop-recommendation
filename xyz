@@ -1,0 +1,45 @@
+  ### 🚀 How to Run Locally
+
+        ```bash
+        # 1. Clone the repo
+        git clone https://github.com/your-username/crop-recommendation.git
+        cd crop-recommendation
+
+        # 2. Install dependencies
+        pip install -r requirements.txt
+
+        # 3. Generate dataset
+        python data/generate_dataset.py
+
+        # 4. Train models
+        python src/train.py
+
+        # 5. Launch app
+        streamlit run app.py
+        ```
+
+        ---
+
+        ### 📁 Project Structure
+        ```
+        crop-recommendation/
+        ├── data/
+        │   ├── generate_dataset.py
+        │   └── Crop_recommendation.csv
+        ├── notebook/         ← all EDA charts
+        ├── src/
+        │   └── train.py      ← full ML pipeline
+        ├── model/
+        │   ├── best_model.pkl
+        │   ├── scaler.pkl
+        │   └── label_encoder.pkl
+        ├── app.py            ← Streamlit app
+        ├── requirements.txt
+        └── README.md
+        ```
+
+        ---
+
+        ### 🙏 Credits
+        Built with ❤️ using Python · scikit-learn · Streamlit
+        

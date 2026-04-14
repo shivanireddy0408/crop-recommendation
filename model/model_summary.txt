@@ -1,0 +1,10 @@
+CROP RECOMMENDATION SYSTEM — MODEL SUMMARY
+=============================================
+Best Model   : Random Forest
+Test Accuracy: 0.9864
+CV Mean      : 0.9682 ± 0.0099
+
+All Models:
+  Logistic Regression        acc=0.9773  cv=0.9653
+  Decision Tree              acc=0.9432  cv=0.9278
+  Random Forest              acc=0.9864  cv=0.9682
