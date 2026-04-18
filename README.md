@@ -235,9 +235,10 @@ The app will open in your browser at `http://localhost:8501`.
 
 ## 🖼️ Screenshots
 
-> _Add screenshots here after running the app._
-
-| Prediction Tab | EDA Charts |
+| Prediction Tab | 
+![Prediction](screenshots/prediction.png)
+|EDA Charts |
+![EDA Charts](screenshots/eda_charts.png)
 
 ## 🛠️ Tech Stack
 
