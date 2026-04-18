@@ -209,7 +209,7 @@ crop-recommendation/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/crop-recommendation.git
+git clone https://github.com/shivanireddy0408/crop-recommendation.git
 cd crop-recommendation
 
 # 2. (Recommended) Create a virtual environment
@@ -238,10 +238,6 @@ The app will open in your browser at `http://localhost:8501`.
 > _Add screenshots here after running the app._
 
 | Prediction Tab | EDA Charts |
-|---|---|
-| _(screenshot placeholder)_ | _(screenshot placeholder)_ |
-
----
 
 ## 🛠️ Tech Stack
 
